@@ -1,0 +1,193 @@
+[
+  {
+    "id": "3fa82cce-750a-4597-9798-9a4f834e7dab",
+    "topic": "Next.js ile yapılan sitelerin neden rakiplerden hızlı olduğu",
+    "caption": "🚀 Next.js ile yapılan siteler neden bu kadar hızlı?\n\nRakipleriniz hâlâ yüklenirken siz çoktan kazanıyorsunuz. İşte sırrı:\n\n⚡ Static Generation (SSG)\nSayfa önceden oluşturulur, sunucu beklemez. Kullanıcı tıklar, sayfa anında gelir.\n\n🧠 Server-Side Rendering (SSR)\nSadece gerektiğinde çalışır. Gereksiz yük yok, saf hız var.\n\n📦 Otomatik Code Splitting\nKullanıcıya sadece o sayfanın kodu gönderilir. Tüm siteyi yüklemek zorunda değil.\n\n🖼️ Görsel Optimizasyonu\nNext.js görselleri otomatik sıkıştırır, doğru boyuta getirir ve lazy load yapar.\n\n🌍 Edge Network & CDN Desteği\nİçerik, kullanıcıya en yakın sunucudan gelir. Mesafe = gecikme formülünü kırar.\n\n📊 Sonuç?\nDaha iyi Google sıralaması 📈\nDaha düşük bounce rate 🎯\nDaha yüksek dönüşüm oranı 💰\n\nHız artık bir tercih değil, bir zorunluluk. Next.js bunu varsayılan olarak sunar.\n\nSiteniz hâlâ yavaş mı? 👇 Yoruma yaz, konuşalım.",
+    "hashtags": "#nextjs #webperformance #yazılım #webgeliştirme #frontend #javascript #react #seo #dijitalmarketing #websitesi #yazılımcı #performans #teknoloji #fullstack #webdesign",
+    "image_prompt": "A sleek dark-themed digital illustration showing a rocket made of code brackets launching upward with glowing speed lines, surrounded by floating UI components and performance metric graphs showing upward trends, with the Next.js logo subtly integrated, neon blue and purple color scheme, futuristic tech aesthetic, high contrast lighting, professional and modern style",
+    "image_url": "https://v3b.fal.media/files/b/0a9b1dd9/nAN0SFIvI3AxXyqNTwn7z_4e847e6225174aba853528e6a94c2c56.jpg",
+    "image_path": "images/3fa82cce-750a-4597-9798-9a4f834e7dab.png",
+    "status": "pending",
+    "created_at": "2026-05-21T18:53:33.510619"
+  },
+  {
+    "id": "6430a009-464e-4204-9664-352b503360b2",
+    "topic": "SEO olmadan web sitesinin neden işe yaramadığı",
+    "caption": "Web siten var ama kimse bulamıyor mu? 🤔\n\nHarika bir web sitesi yaptırdın, tasarım muhteşem, içerikler süper… Ama ziyaretçi yok. Neden?\n\nÇünkü SEO olmadan web siten çölde açılmış bir dükkan gibi! 🏜️\n\nİşte gerçekler:\n\n🔴 Google seni görmüyor → Müşteri seni bulamıyor\n🔴 Anahtar kelime yok → Arama sonuçlarında yoksin\n🔴 Teknik altyapı eksik → Site yavaş, sıralama düşük\n🔴 İçerik optimizasyonu yok → Rakipler seni geçiyor\n\nSEO bir lüks değil, dijital varlığının temelidir. 💡\n\nDüşün bir kez:\n✅ Rakibin Google'da 1. sırada\n✅ Sen 5. sayfadasın\n✅ Müşteri kimi seçer?\n\nCevap açık. Web sitene yatırım yaptıysan, SEO'ya da yatırım yap. Yoksa o site sadece sana güzel görünüyor. 😬\n\nSiteni SEO'ya hazır hale getirmek istiyorsan yorumlara 'SEO' yaz, sana özel ipuçları paylaşalım! 👇",
+    "hashtags": "#SEO #WebSitesi #DigitalMarketing #GoogleSEO #DijiталPazarlama #AramaMotorOptimizasyonu #WebTasarım #Onlineİş #GoogleSıralaması #SEOİpuçları #DigitalStrateji #İçerikPazarlama #WebSitesiTasarımı #Girişimci #Küçükİşletme",
+    "image_prompt": "A dramatic split-screen illustration showing two identical modern storefronts side by side. Left side: a beautiful glowing website/store in a busy colorful city street with many people walking in, search bar visible above showing page 1 result, green growth charts. Right side: the exact same beautiful website/store isolated in a vast empty desert with no visitors, tumbleweeds, showing page 5 on search results. Clean flat design style, vibrant colors, bold visual contrast between success and invisibility. Text overlay space at bottom. Professional digital marketing concept art.",
+    "image_url": "https://v3b.fal.media/files/b/0a9b1ddb/SdFZDrnyY4XsRgC34neZc_802abbd060404cf79e70144cf648e486.jpg",
+    "image_path": "images/6430a009-464e-4204-9664-352b503360b2.png",
+    "status": "posted",
+    "created_at": "2026-05-21T18:53:58.501059",
+    "posted_at": "2026-05-21T20:04:20.013471",
+    "media_id": "17938767132229482"
+  },
+  {
+    "id": "21d547e5-9e3c-48cc-a7f3-cefe670ef460",
+    "topic": "UI/UX'in satışa doğrudan etkisi",
+    "caption": "💸 Kötü tasarım, sessiz sedasız müşteri kaybettirir.\n\nKullanıcılar bir uygulamada ya da web sitesinde 3 saniye içinde ne yapacaklarını bulamazlarsa... gidiyorlar. Geri dönmüyorlar.\n\n📊 Araştırmalar ne diyor?\n→ İyi bir UX tasarımı, dönüşüm oranlarını %400'e kadar artırabilir\n→ Kullanıcıların %88'i kötü deneyim yaşadıktan sonra o siteye geri dönmüyor\n→ Her 1$ UX yatırımı, 100$ geri dönüş sağlayabiliyor\n\n🎯 UI/UX sadece \"güzel görünmek\" değil:\n✅ Kullanıcıyı satın alma butonuna yönlendirmek\n✅ Güven hissi yaratmak\n✅ Süreci o kadar kolaylaştırmak ki vazgeçmek zor olsun\n\nTasarımın satış ekibinin en sessiz ama en güçlü üyesi olduğunu unutma. 🚀\n\nSenin ürününün tasarımı sana para kazandırıyor mu, kaybettiriyor mu? 👇",
+    "hashtags": "#UIUX #UXTasarım #DönüşümOranı #DigitalMarketing #WebTasarım #KullanıcıDeneyimi #SatışStratejisi #GrowthHacking #UIDesign #ECommerceUI #TasarımVeSatış #StartupTürkiye #DigitalDönüşüm #ProductDesign #MarketingTips",
+    "image_prompt": "A sleek split-screen infographic illustration showing two smartphone screens side by side. Left screen shows a cluttered, confusing app interface with red X marks and a frustrated cartoon user, labeled 'Bad UX' with a downward sales arrow. Right screen shows a clean, minimal, modern app interface with smooth UI elements, happy user icon, and an upward green sales growth arrow labeled 'Good UX'. Dark navy blue background with neon green and coral accent colors. Modern flat design style, professional and eye-catching.",
+    "image_url": "https://v3b.fal.media/files/b/0a9b1ddd/0aNCXno4SrnlKrrBU9YeP_9ac2e55af36c459ab4d4a05a3a310dd1.jpg",
+    "image_path": "images/21d547e5-9e3c-48cc-a7f3-cefe670ef460.png",
+    "status": "pending",
+    "created_at": "2026-05-21T18:54:21.982729"
+  },
+  {
+    "id": "4ac23be3-7f15-442b-8b5e-9f27542b4ec9",
+    "topic": "Web sitesi olmayan işletmelerin her gün kaybettiği müşteriler",
+    "caption": "Her gün onlarca potansiyel müşteri sizi Google'da arıyor — ama bulamıyorsa, o müşteri rakibinize gidiyor. Web sitesi olmayan işletmeler bunun farkında bile değil. 50+ projede gördük: doğru yapılmış bir web sitesi, müşterilerde ortalama %40 dönüşüm artışı sağlıyor. Peki sizin işletmenizin dijitalde bir evi var mı? Yorumlara 'var' ya da 'yok' yazın, bakalım kaç kişi aynı durumda 👇",
+    "hashtags": "#websitesi #webdizayn #ocscreative #kobiwebsite #turkiyewebdesign #websiteyaptirma #dijitalpazarlama #seotürkiye #googlesiralama #yerelSEO #webdesign #nextjs #mobiluygulama #dijitaldonusum #esnafrehberi #kobiturkiye #girisimci #isletmesahipleri #esnaf #turkiye #kobi #markaolmak #internetsitesi #dijitaldunya #webajans",
+    "slide_paths": [
+      "images/4ac23be3-7f15-442b-8b5e-9f27542b4ec9_slide0.jpg",
+      "images/4ac23be3-7f15-442b-8b5e-9f27542b4ec9_slide1.jpg",
+      "images/4ac23be3-7f15-442b-8b5e-9f27542b4ec9_slide2.jpg",
+      "images/4ac23be3-7f15-442b-8b5e-9f27542b4ec9_slide3.jpg",
+      "images/4ac23be3-7f15-442b-8b5e-9f27542b4ec9_slide4.jpg",
+      "images/4ac23be3-7f15-442b-8b5e-9f27542b4ec9_slide5.jpg",
+      "images/4ac23be3-7f15-442b-8b5e-9f27542b4ec9_slide6.jpg"
+    ],
+    "image_url": "",
+    "image_path": "images/4ac23be3-7f15-442b-8b5e-9f27542b4ec9_slide0.jpg",
+    "status": "posted",
+    "created_at": "2026-05-21T20:34:12.385630",
+    "posted_at": "2026-05-21T20:42:34.250292",
+    "media_id": "18081702899411946"
+  },
+  {
+    "id": "18d30106-4106-4569-b7be-f30afb4d8fa7",
+    "topic": "İnsanlar bir işletmeye güvenmeden önce ne yapıyor?",
+    "caption": "Biri sizi tavsiye etti — harika. Ama o kişi eve gidip sizi Google'da aradığında ne buluyor? Tüketicilerin %75'i bir işletmeye güvenmeden önce web sitesine bakıyor; siteniz yoksa veya kötüyse, o müşteri sessizce rakibinize gidiyor. 50+ projede gördük: doğru bir web sitesi sadece dijital bir vitrin değil, müşteriyle kurduğunuz ilk el sıkışmadır. Siteniz var mı? Yorumlara 'var' ya da 'yok' yazın 👇",
+    "hashtags": "#websitesi #webdizayn #güvenmarketingi #kobiwebsite #turkiyewebdesign #ocscreative #webdesign #dijitaldönüşüm #seotürkiye #nextjs #mobilsite #kurumusalsite #dijitalmarketing #googlearama #websitasarimi #esnaf #kobi #girişimci #isletme #turkiye #dijitalesnaf #müşterigüveni #markabinayi #kobidijital #webajans",
+    "slide_paths": [
+      "images/18d30106-4106-4569-b7be-f30afb4d8fa7_slide0.jpg",
+      "images/18d30106-4106-4569-b7be-f30afb4d8fa7_slide1.jpg",
+      "images/18d30106-4106-4569-b7be-f30afb4d8fa7_slide2.jpg",
+      "images/18d30106-4106-4569-b7be-f30afb4d8fa7_slide3.jpg",
+      "images/18d30106-4106-4569-b7be-f30afb4d8fa7_slide4.jpg",
+      "images/18d30106-4106-4569-b7be-f30afb4d8fa7_slide5.jpg",
+      "images/18d30106-4106-4569-b7be-f30afb4d8fa7_slide6.jpg"
+    ],
+    "image_url": "",
+    "image_path": "images/18d30106-4106-4569-b7be-f30afb4d8fa7_slide0.jpg",
+    "status": "posted",
+    "created_at": "2026-05-21T20:35:29.750326",
+    "posted_at": "2026-05-21T20:44:59.749090",
+    "media_id": "17986392945005733"
+  },
+  {
+    "id": "9a08cafd-8b03-44eb-acb4-3d3d22f02927",
+    "topic": "Instagram sayfası var ama web sitesi yok — bu neden büyük bir sorun",
+    "caption": "Instagram'da binlerce kişiye ulaşıyorsunuz — ama ciddi bir müşteri adayı sizi Google'da aradığında ne buluyor? Tüketicilerin %75'i bir işletmeye güvenmeden önce web sitesine bakıyor; site yoksa güven de yok, müşteri de. Biz 50+ projede gördük: web sitesi olan işletmeler rakiplerinin önüne geçiyor, müşterilerimizde ortalama %40 dönüşüm artışı sağlıyoruz. Sizin web siteniz var mı? Yorumlara 'var' ya da 'yok' yazın 👇",
+    "hashtags": "#websitesi #webdizayn #ocscreative #instagramyetersiz #kobiwebsite #turkiyewebdesign #websitenizolsun #dijitalpazarlama #seotürkiye #googlesiralama #webdesign #nextjs #mobilsite #kurumsal #esnafweb #kobidijital #girişimci #isletmesahipleri #esnaf #kobi #turkiye #dijitaldonusum #websitasarim #markakimlik #dijitaldepartman",
+    "slide_paths": [
+      "images/9a08cafd-8b03-44eb-acb4-3d3d22f02927_slide0.jpg",
+      "images/9a08cafd-8b03-44eb-acb4-3d3d22f02927_slide1.jpg",
+      "images/9a08cafd-8b03-44eb-acb4-3d3d22f02927_slide2.jpg",
+      "images/9a08cafd-8b03-44eb-acb4-3d3d22f02927_slide3.jpg",
+      "images/9a08cafd-8b03-44eb-acb4-3d3d22f02927_slide4.jpg",
+      "images/9a08cafd-8b03-44eb-acb4-3d3d22f02927_slide5.jpg",
+      "images/9a08cafd-8b03-44eb-acb4-3d3d22f02927_slide6.jpg"
+    ],
+    "image_url": "",
+    "image_path": "images/9a08cafd-8b03-44eb-acb4-3d3d22f02927_slide0.jpg",
+    "status": "pending",
+    "created_at": "2026-05-21T20:36:49.356849"
+  },
+  {
+    "id": "d07a929f-22a8-4b61-9523-03a687183e74",
+    "topic": "Rakibinizin web sitesi varsa müşteri nereye gidiyor?",
+    "caption": "Müşteri sizi Google'da arıyor ama rakibinizi buluyor — bu sessiz bir kayıp ve her gün devam ediyor. 50+ projede gördük: web sitesi olmayan işletmeler, potansiyel müşterinin %70'inden fazlasını dijitalde kaybediyor. Smmm Yavuz Şahin gibi müşterilerimizde yerel SEO ve kurumsal site kurulumunun ardından bölgesel organik başvurular somut biçimde arttı. Rakibinizin sitesi var mı? Sizinki var mı? Yorumlarda 'var' ya da 'yok' yazın 👇",
+    "hashtags": "#websitesi #webdizayn #kobiwebsite #turkiyewebdesign #ocscreative #rakipanalizi #lokalSEO #yerelisletme #webdesign #nextjs #dijitalpazarlama #seotürkiye #googlesiralama #kurumusalsite #esnafweb #isletmesahibi #esnaf #kobi #girisimci #isletme #turkiye #dijitaldonusum #webajans #kobidestegi #googleharitalar",
+    "slide_paths": [
+      "images/d07a929f-22a8-4b61-9523-03a687183e74_slide0.jpg",
+      "images/d07a929f-22a8-4b61-9523-03a687183e74_slide1.jpg",
+      "images/d07a929f-22a8-4b61-9523-03a687183e74_slide2.jpg",
+      "images/d07a929f-22a8-4b61-9523-03a687183e74_slide3.jpg",
+      "images/d07a929f-22a8-4b61-9523-03a687183e74_slide4.jpg",
+      "images/d07a929f-22a8-4b61-9523-03a687183e74_slide5.jpg",
+      "images/d07a929f-22a8-4b61-9523-03a687183e74_slide6.jpg"
+    ],
+    "image_url": "",
+    "image_path": "images/d07a929f-22a8-4b61-9523-03a687183e74_slide0.jpg",
+    "status": "pending",
+    "created_at": "2026-05-21T20:38:21.259335"
+  },
+  {
+    "id": "ad86e895-8215-4b0f-9329-90e04ed0ea82",
+    "topic": "Tüketicilerin %75'i bir işletmeye güvenmeden önce sitesine bakıyor — ne anlama geliyor?",
+    "caption": "Tüketicilerin %75'i bir işletmeye güvenmeden önce web sitesine bakıyor. Bu sadece bir istatistik değil — her gün kaybettiğiniz müşterilerin sebebi olabilir. 50'den fazla projede şunu net gördük: iyi bir web sitesi, en güçlü satış temsilciniz. Siteniz var mı, yok mu? Yorumlarda 'var' ya da 'yok' yazın 👇",
+    "hashtags": "#websitesi #webdizayn #kobiwebsite #turkiyewebdesign #ocscreative #webdesign #website #nextjs #dijitalajans #seotürkiye #localSEO #esnaf #kobi #girişimci #isletme #turkiye #dijitalmarketing #kurumusalsite #markakimliği #googlemaps #mobilsite #hizliwebsite #kobidijital #dijitaldönüşüm #webtasarim",
+    "slide_paths": [
+      "images/ad86e895-8215-4b0f-9329-90e04ed0ea82_slide0.jpg",
+      "images/ad86e895-8215-4b0f-9329-90e04ed0ea82_slide1.jpg",
+      "images/ad86e895-8215-4b0f-9329-90e04ed0ea82_slide2.jpg",
+      "images/ad86e895-8215-4b0f-9329-90e04ed0ea82_slide3.jpg",
+      "images/ad86e895-8215-4b0f-9329-90e04ed0ea82_slide4.jpg",
+      "images/ad86e895-8215-4b0f-9329-90e04ed0ea82_slide5.jpg",
+      "images/ad86e895-8215-4b0f-9329-90e04ed0ea82_slide6.jpg"
+    ],
+    "image_url": "",
+    "image_path": "images/ad86e895-8215-4b0f-9329-90e04ed0ea82_slide0.jpg",
+    "status": "pending",
+    "created_at": "2026-05-21T20:39:39.119359"
+  },
+  {
+    "id": "57ea4635-f977-4d7e-b698-b8e2e65000bc",
+    "topic": "İyi bir web sitesinde mutlaka olması gereken 5 temel unsur",
+    "caption": "Web siteniz var ama iş getirmiyor mu? Çoğu zaman sorun sitenin varlığında değil, bu 5 temel unsurun eksikliğinde. Hız, mobil uyumluluk, doğru CTA, SEO ve güven veren tasarım — hepsi bir arada olmadığında ziyaretçi müşteriye dönüşmüyor. Biz 50+ projede bu unsurları doğru kurduğumuzda müşterilerimizde ortalama %40 dönüşüm artışı gördük. Peki sizin sitenizde bu 5 unsur var mı? Yorumlara 'var', 'yok' veya 'bilmiyorum' yazın, birlikte bakalım 👇",
+    "hashtags": "#websitesi #webdizayn #kobiwebsite #turkiyewebdesign #ocscreative #webdesign #website #nextjs #dijitalpazarlama #seotürkiye #yerelSEO #mobiluyumluluk #uidesign #uxdesign #websitehizi #kobidijital #esnaf #kobi #girişimci #isletme #turkiye #dijitaldonusum #webajans #kurumsal #markakimliği",
+    "slide_paths": [
+      "images/57ea4635-f977-4d7e-b698-b8e2e65000bc_slide0.jpg",
+      "images/57ea4635-f977-4d7e-b698-b8e2e65000bc_slide1.jpg",
+      "images/57ea4635-f977-4d7e-b698-b8e2e65000bc_slide2.jpg",
+      "images/57ea4635-f977-4d7e-b698-b8e2e65000bc_slide3.jpg",
+      "images/57ea4635-f977-4d7e-b698-b8e2e65000bc_slide4.jpg",
+      "images/57ea4635-f977-4d7e-b698-b8e2e65000bc_slide5.jpg",
+      "images/57ea4635-f977-4d7e-b698-b8e2e65000bc_slide6.jpg"
+    ],
+    "image_url": "",
+    "image_path": "images/57ea4635-f977-4d7e-b698-b8e2e65000bc_slide0.jpg",
+    "status": "pending",
+    "created_at": "2026-05-21T20:41:14.425731"
+  },
+  {
+    "id": "43ef2646-54c9-4bbc-80af-74288824954b",
+    "topic": "Web siteniz yavaşsa ziyaretçi neden hemen terk ediyor?",
+    "caption": "Siteniz 3 saniyede açılmıyorsa, ziyaretçiniz rakibinizin sitesinde. Bu bir tahmin değil — araştırmalar, kullanıcıların %53'ünün 3 saniyeyi aşan siteleri terk ettiğini gösteriyor. 50+ projede fark ettiğimiz en yaygın sorun şu: işletme sahibi Instagram'dan müşteri çekmeye çalışıyor, ama link bio'daki site telefonda düzgün açılmıyor. Reklam bütçesi boşa gidiyor. Smmm Yavuz Şahin projesinde Next.js altyapısına geçişin ardından sayfa hızı dramatik biçimde iyileşti ve organik görünürlük arttı — aynısı sizin için de mümkün. Sitenizin kaç saniyede açıldığını hiç test ettiniz mi? Yorumlara yazın 👇",
+    "hashtags": "#websitesi #webdizayn #siteperformansı #hızlıwebsite #nextjs #ocscreative #kobiwebsite #turkiyewebdesign #webdesign #seo #seotürkiye #googleranking #corewebvitals #mobilsite #dijitalpazarlama #websitehızı #kobisahibi #esnaf #girişimci #kobi #isletme #dijitaldönüşüm #turkiye #webajans #performansoptimizasyonu",
+    "slide_paths": [
+      "images/43ef2646-54c9-4bbc-80af-74288824954b_slide0.jpg",
+      "images/43ef2646-54c9-4bbc-80af-74288824954b_slide1.jpg",
+      "images/43ef2646-54c9-4bbc-80af-74288824954b_slide2.jpg",
+      "images/43ef2646-54c9-4bbc-80af-74288824954b_slide3.jpg",
+      "images/43ef2646-54c9-4bbc-80af-74288824954b_slide4.jpg",
+      "images/43ef2646-54c9-4bbc-80af-74288824954b_slide5.jpg",
+      "images/43ef2646-54c9-4bbc-80af-74288824954b_slide6.jpg"
+    ],
+    "image_url": "",
+    "image_path": "images/43ef2646-54c9-4bbc-80af-74288824954b_slide0.jpg",
+    "status": "pending",
+    "created_at": "2026-05-21T20:43:04.883834"
+  },
+  {
+    "id": "2bad5785-4c4c-4952-9df8-0d8fb22b07a1",
+    "topic": "Mobil uyumlu olmayan sitenin işletmeye verdiği gerçek zarar",
+    "caption": "Sitenizi masaüstünde yaptırdınız, harika görünüyor — ama müşterilerinizin %70'i telefondan bakıyor. Ekran taşıyor, butonlar tıklanamıyor, sayfa yüklenmiyor. Ziyaretçi 3 saniye bekliyor, sonra rakibinize gidiyor. Üstelik Google da mobil uyumsuz siteleri sıralamada geriye atıyor — yani görünmez oluyorsunuz. Biz 50+ projede bu durumu tersine çevirdik; Smmm Yavuz Şahin'den Glory Cord'a kadar her projede mobil öncelikli yapı kurduk ve müşterilerde ortalama %40 dönüşüm artışı gördük. Sitenizi şu an telefonunuzdan açın — ne görüyorsunuz? Yorumlara 'iyi', 'fena' veya 'sitem yok' yazın 👇",
+    "hashtags": "#mobiluyumlu #websitesi #webdizayn #kobiwebsite #turkiyewebdesign #ocscreative #mobilsite #webdesign #nextjs #seotürkiye #googleseo #mobilseo #dijitalpazarlama #esnaf #kobi #girişimci #isletme #turkiye #kurumusalsite #websiteyaptır #dijitaldönüşüm #mobiledesign #webajans #kobidijital #siteyaptır",
+    "slide_paths": [
+      "images/2bad5785-4c4c-4952-9df8-0d8fb22b07a1_slide0.jpg",
+      "images/2bad5785-4c4c-4952-9df8-0d8fb22b07a1_slide1.jpg",
+      "images/2bad5785-4c4c-4952-9df8-0d8fb22b07a1_slide2.jpg",
+      "images/2bad5785-4c4c-4952-9df8-0d8fb22b07a1_slide3.jpg",
+      "images/2bad5785-4c4c-4952-9df8-0d8fb22b07a1_slide4.jpg",
+      "images/2bad5785-4c4c-4952-9df8-0d8fb22b07a1_slide5.jpg",
+      "images/2bad5785-4c4c-4952-9df8-0d8fb22b07a1_slide6.jpg"
+    ],
+    "image_url": "",
+    "image_path": "images/2bad5785-4c4c-4952-9df8-0d8fb22b07a1_slide0.jpg",
+    "status": "pending",
+    "created_at": "2026-05-21T20:44:31.558345"
+  }
+]
